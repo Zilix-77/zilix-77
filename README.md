@@ -7,7 +7,7 @@
 Palakkad, Kerala — building things digital and physical.
 If it's in my interest zone, it's getting done.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]([https://(https://portfolio-nu-three-mklfbo5paw.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-zilix-77s-projects.vercel.app)
 [![Instagram](https://img.shields.io/badge/@adar.sshhh__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adar.sshhh_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adarsh.anilkumar.9b@gmail.com)
 
